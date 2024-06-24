@@ -1,7 +1,7 @@
-package org.example.br.com.alura.alugames.principal
+package br.com.alura.alugames.principal
 
 import br.com.alura.alugames.servicos.ConsumoApi
-import org.example.br.com.alura.alugames.modelo.Jogo
+import br.com.alura.alugames.modelo.Jogo
 import java.util.*
 
 fun main() {

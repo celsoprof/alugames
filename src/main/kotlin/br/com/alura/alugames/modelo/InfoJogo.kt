@@ -1,4 +1,6 @@
-package org.example.br.com.alura.alugames.modelo
+package br.com.alura.alugames.modelo
+
+import br.com.alura.alugames.modelo.InfoApiShark
 
 data class InfoJogo(
     val info: InfoApiShark

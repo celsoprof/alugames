@@ -1,7 +1,7 @@
 package br.com.alura.alugames.servicos
 
 import com.google.gson.Gson
-import org.example.br.com.alura.alugames.modelo.InfoJogo
+import br.com.alura.alugames.modelo.InfoJogo
 import java.net.URI
 import java.net.http.HttpClient
 import java.net.http.HttpRequest
